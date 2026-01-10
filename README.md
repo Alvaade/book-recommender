@@ -12,7 +12,7 @@ Link to the dataset: https://github.com/malcolmosh/goodbooks-10k-extended
 
 - Collaborative filtering using the SVD algorithm
 - Predicts user ratings on a 1-5 star scale with an average error of approximately 0.64 (MAE)
-- Generates a personalized book suggetsions based on learnt user preferences
+- Generates a personalized book suggestions based on learnt user preferences
 - Utilizes a large dataset with nearly 6 million ratings from over 53 000 users
 
 ---
